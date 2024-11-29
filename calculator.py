@@ -1,5 +1,5 @@
 def calculator():
-    print("Welcome to Vicky Python Calculator!")
+    print("Welcome to Python Calculator!")
     print("Select an operation:")
     print("1. Addition (+)")
     print("2. Subtraction (-)")
